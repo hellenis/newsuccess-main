@@ -6,7 +6,7 @@ import Feature from "@/components/blocks/feature";
 export default function Home() {
   return (
     <>
-      <Header />
+      <Hero />
       <Feature />  
     </>
   );
